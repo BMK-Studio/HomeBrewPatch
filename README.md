@@ -215,9 +215,11 @@ Example:
 <property>
     <title>BMK-Studio History</title>
     <content>
-BMK-Studio is an independent development studio creating software, homebrew and experimental projects across multiple platforms.
+BenMitnicK is a self-taught developer who has been learning and experimenting with software development for many years.
 
-The studio focuses on PS Vita development, user-facing applications, plugins and shell-level research.
+He primarily works on small projects in his free time, driven by curiosity and a desire to learn.
+
+BMK-Studio is simply the organization that structures this work, bringing together projects created with passion, curiosity, and a lot of programming in his spare time.
     </content>
 </property>
 ```
